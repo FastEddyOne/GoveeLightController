@@ -1,7 +1,7 @@
 import requests
 import click
 
-API_KEY = 'YOURAPIKEYHERE'  # Replace with your actual API key
+API_KEY = 'YOUR_GOVEE_API_KEY'  # Replace with your actual API key
 BASE_URL = 'https://developer-api.govee.com/v1/devices'
 
 HEADERS = {
