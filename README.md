@@ -18,11 +18,10 @@ Control your Govee lights from the command line with this simple and interactive
 
 1. **Clone the repository:**
     ```shell
-    git clone https://github.com/your_username/govee-controller.git
-    cd govee-controller
+    git clone [https://github.com/your_username/govee-controller.git](https://github.com/FastEddyOne/GoveeLightController.git)
+    cd GoveeLightController
     ```
 
-    Replace `your_username` and repository name as per your actual GitHub URL.
 
 2. **Install required Python packages:**
     ```pip install requests click```
